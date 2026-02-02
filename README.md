@@ -1,4 +1,3 @@
-
 # Understanding Strapi
 
 Strapi is a ready-made backend for applications.  
@@ -8,5 +7,9 @@ Strapi is a ready-made backend for applications.
 - Strapi handles all of this automatically, so developers don’t have to write it from scratch.  
 - With Strapi, backend setup that normally takes weeks can be done in a day.  
 - This lets us focus on the unique parts of our application instead of boilerplate backend work.
+
+For steps on how to run Strapi, see the [official repository](https://github.com/strapi/strapi).  
+
+A Loom video demonstrating this also coming.  
 
 In short, Strapi **speeds up backend development** and makes it easy to manage data, APIs, and access control.
